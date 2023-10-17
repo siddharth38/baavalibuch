@@ -59,13 +59,6 @@ $ npm start
 ### After creating heroku
 
 
-
-# Screenshots of this project
-
-User visit public and Home page
-![User visit public and Home page](http://i.imgur.com/ORCGHHY.png)
-
-
 ## BUGs or comments
 
 Email Me: siddharth.kumar28717@gmail.com 
